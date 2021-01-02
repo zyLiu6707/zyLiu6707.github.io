@@ -1,0 +1,4 @@
+# Temporarily ignore the public folder
+# After the framework is done, the public/
+# will be tracked
+public
