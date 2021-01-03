@@ -1,4 +1,4 @@
 # Temporarily ignore the public folder
-# After the framework is done, the public/
+# After the framework is done, the docs/
 # will be tracked
-public
+docs
