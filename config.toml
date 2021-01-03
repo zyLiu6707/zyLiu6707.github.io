@@ -22,6 +22,8 @@ disqusShortname = "hugo-tranquilpeak-theme"
 paginate = 7
 canonifyurls = true
 
+publishDir = "docs"
+
 [permalinks]
   post = "/:year/:month/:slug/"
 
