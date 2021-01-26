@@ -1,8 +1,24 @@
 ---
 title: "Test"
 date: 2021-01-02T17:59:23-05:00
-draft: true
+draft: false
 # markup: md
+keywords:
+- Monte Carlo
+- Arknights/明日方舟
+- math
+tags:
+- Monte Carlo
+- Arknights/明日方舟
+- math
+clearReading: true
+metaAlignment: center  # control the position of tile
+comments: true
+showTags: true
+showPagination: true  # control to show the "previous""next" buttons or not at the bottom
+showSocial: true  # control to show the sharing buttons or not at the bottom
+showDate: true  # control to show the the date or not at the top
+summary: "This is a custom summary and does *not* appear in the post."
 ---
 
 # Arknights-Pull-Simulation
