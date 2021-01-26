@@ -24,6 +24,9 @@ canonifyurls = true
 
 publishDir = "docs"
 
+[markup.goldmark.renderer]
+unsafe= true
+
 [permalinks]
   post = "/:year/:month/:slug/"
 
